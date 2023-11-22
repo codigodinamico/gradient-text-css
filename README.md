@@ -1,6 +1,6 @@
 # Gradient Text Effect
 ## [Watch it on youtube](https://youtu.be/gHaZ9fw_m14)
-## 3D Cube Design
+## Gradient Text Effect 
 - Gradient text effect made with HTML and CSS.
 
 ❤ Join the channel to see more videos like this. [Dynamic Code](https://www.youtube.com/@dynamic_code)
