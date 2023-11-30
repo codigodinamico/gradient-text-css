@@ -3,7 +3,7 @@
 ## Gradient Text Effect 
 - Gradient text effect made with HTML and CSS.
 
-❤ Join the channel to see more videos like this. [Dynamic Code](https://www.youtube.com/@dynamic_code)
+❤ Join the channel to see more videos like this. [Dynamic Coding](https://www.youtube.com/@dynamic_coding)
 
 
 ![gradient text css](https://github.com/codigodinamico/gradient-text-css/assets/130683326/201cfd1d-3cf3-41e5-a5c0-934bdb8cd898)
